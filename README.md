@@ -5,8 +5,6 @@ Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
 
-### Developed By
-
 # AIM:
 
 To Compromise windows using Metasploit .
